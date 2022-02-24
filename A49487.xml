@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dr. Martin Luthers prophecies of the destruction of Rome and the downfall of the Romish religion. And how the Papists for treachery and hypocrisie shall at last become hated, and contemned [sic] by all nations. Here are likewise some of the eminent prophecies of that most learned mathematician and prophet Michael Nostredamus, concerning England and France, and those strange occurrences which are likely to happen to both those countreys in these later dayes, with an account of some of the prophecies of Michael Nostredamus which have been fulfilled here in England already. Luther's motto writ by himself. Licensed, May 7. 1679.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49487</idno>
+            <idno type="STC">Wing L3514</idno>
+            <idno type="STC">ESTC R211089</idno>
+            <idno type="EEBO-CITATION">99825458</idno>
+            <idno type="PROQUEST">99825458</idno>
+            <idno type="VID">29840</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49487)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29840)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2190:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dr. Martin Luthers prophecies of the destruction of Rome and the downfall of the Romish religion. And how the Papists for treachery and hypocrisie shall at last become hated, and contemned [sic] by all nations. Here are likewise some of the eminent prophecies of that most learned mathematician and prophet Michael Nostredamus, concerning England and France, and those strange occurrences which are likely to happen to both those countreys in these later dayes, with an account of some of the prophecies of Michael Nostredamus which have been fulfilled here in England already. Luther's motto writ by himself. Licensed, May 7. 1679.</title>
+                  <author>Luther, Martin, 1483-1546.</author>
+                  <author>Nostradamus, 1503-1566.</author>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for W.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Year of publication from Wing.</note>
+                  <note>Copy has print show-through.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29840:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 41 -->
+            <pb facs="tcp:29840:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 41 -->
+            <p>Dr. Martin Luthers PROPHECIES OF THE DESTRUCTION OF ROME, AND THE DOWNFALL OF THE Romiſh Religion.</p>
+            <p>And how the Papiſts for Treachery and Hy<g ref="char:EOLhyphen"/>pocriſie ſhall at laſt become hated, and con<g ref="char:EOLhyphen"/>temned by all Nations.</p>
+            <p>Here are likewiſe ſome of the eminent Prophecies of that moſt Learned Mathematician and Prophet <hi>Michael Noſtre<g ref="char:EOLhyphen"/>damus,</hi> concerning <hi>England</hi> and <hi>France,</hi> and thoſe ſtrange occurrences which are likely to happen to both thoſe Countreys in theſe later dayes, with an Account of ſome of the Prophecies of <hi>Michael Noſtredamus</hi> which have been ful<g ref="char:EOLhyphen"/>filled here in <hi>England</hi> already.</p>
+            <p>
+               <hi>Lather</hi>'s Motto Writ by himſelf, <q>Peſtis eram vivens, moriens ero Mors tua Papa.</q>
+            </p>
+            <p>
+               <hi>Licenſed,</hi> May 7. 1<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>79.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W.W.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:29840:2"/>
+            <!-- PDF PAGE 42 -->
+            <head>Dr. <hi>Martin Luther</hi>'s Prophecies of the Deſtruction of <hi>Rome,</hi> and the Downfall of the <hi>Romiſh</hi> Religion.</head>
+            <p>TO waſte much time in the needleſs Commendati<g ref="char:EOLhyphen"/>on of that Learned, and Pious <hi>Reformer, Dr. <hi>Mar<g ref="char:EOLhyphen"/>tin Luther,</hi>
+               </hi> would be as great an Impertinence as that of the young <hi>Rhetorician</hi>'s, who ſpent three hours in an elaborate Declamation on the refulgency of the glorious Sun-beams. They are both ſo apparent to any Rational or Inquiſitive Creature, that it would be but a Tau<g ref="char:EOLhyphen"/>tologie to applaud them; we daily enjoy the ineſtimable be<g ref="char:EOLhyphen"/>nefit of either: for as the one delivered us from that uncom<g ref="char:EOLhyphen"/>fortable darkneſs which firſt brooded on the primitive Chaos, and hatcht nothing but Confuſion; ſo the other like a Friendly Pillar of Divine Light, kindly conducted us out of thoſe dangerous paths of Superſtition, and Idolatry, which would have led us into everlaſting Deſtruction.</p>
+            <p>But if after all thoſe mighty obligations he has done all the Reformed Churches in <hi>Europe,</hi> there ſhould any one yet remain bruitiſhly ignorant of his Virtues and Indowments, I ſhall in a word acquaint them who this <hi>Luther</hi> was.</p>
+            <p n="1">1. It was he who (if I may ſpeak it with reverence) like our <hi>Saviour</hi> had the honour to be propheſied of before he was born; and this even the <hi>Romans</hi> themſelves cannot deny, ſince their own Hiſtories acquaint us that one <hi>John Hilton</hi> a perſon they themſelves held in great veneration for piety and gift of Prophecie, wrote thus almoſt a hundred years before <hi>Luther</hi> had declared himſelf againſt the Church of <hi>Rome. Much about the year</hi> 1516. <hi>the <hi>Myſterie of Vngodlineſs</hi> ſhall begin to be diſcovered, and the Son of Righteouſneſs ſhine forth in the Truth of the <hi>Goſpel,</hi> and Popery ſhall in <hi>Germany,</hi> and other parts of the World then receive a Sudden Declenſion.</hi> This
+<pb n="2" facs="tcp:29840:2"/>
+               <!-- PDF PAGE 42 -->Prophecie was certainly fulfilled by <hi>Laither</hi> who appeared at that time againſt <hi>Rome,</hi> and in ſpite of all her then domineer<g ref="char:EOLhyphen"/>ing Tyranny gave her a greater blow than ever ſhe received either before or ſince.</p>
+            <p n="2">2. It was he of whom the Martyr <hi>John Hus</hi> on that day he ſuffered at <hi>Conſtance</hi> ſaid; <hi>You now roaſt a Gooſe</hi> (for ſo <hi>Hus</hi> ſignifies) <hi>but one hundred years hence you ſhall hear a Swan ſing, whom you ſhall not be able neither to roaſt, nor overcome.</hi>
+            </p>
+            <p n="3">3. It was he who was graced with the Honourable title of <hi>Maſter of Arts</hi> at twenty years of Age. 'Twas he who whileſt he was peruſing certain Books in the Library of the Colledge of <hi>Orphord</hi> happened to meet with a Copy of the Latin Bible, which he never had ſeen before, and having to his great admiration obſerved there were more <hi>Evangelical</hi> and <hi>Apoſtolical</hi> Texts in it than were ſuffered to be read open<g ref="char:EOLhyphen"/>ly in Churches, he thereupon ſet himſelf to the Tranſlating of the five Books of <hi>Moſes,</hi> and afterwards finiſhed both them and the remainder of the Old and the New Teſtament, which was by ſome <hi>Popiſh</hi> Biſhops and Prieſts forbid to be read to the People. In fine, it was Dr. <hi>M. Luther</hi> whom God in his infinite wiſdom raiſed, and furniſhed with a ſufficient portion of Care, Courage and Learning to Inſpect and Detect the damnable Superſtition and Idolatry of the Church of <hi>Rome,</hi> which he reſolutely performed, notwithſtanding all the Threats and Dangers he knew he was to go through if he perſiſted in ſo doing. And laſtly it was he to whom <hi>Ger<g ref="char:EOLhyphen"/>many, Denmark, Bohemia</hi> and moſt of the Proteſtant Churches in the world are in a great meaſure beholding for their glorious Reformation.</p>
+            <p>Thus much I thought fit to premiſe, that the moſt ſcrupu<g ref="char:EOLhyphen"/>lous Reader may leſs wonder that the Almighty ſhould entruſt this worthy Champion of the now Reformed Religion with the Spirit of Prophecie which he was pleaſed to exerciſe on himſelf, ſaying ſome weeks before he Dyed, <hi>When I return to</hi> Wittemberg, <hi>I will be lodged in a Coffin, and will render to the worms a fat</hi> Luther <hi>to feed on;</hi> and ſo it ſell out, for within two dayes after he came thither he dyed, but a little before his Expiration call'd for Pen and Ink, and wrote this following Verſe,
+<q>
+                  <pb n="3" facs="tcp:29840:3"/>
+                  <!-- PDF PAGE 43 -->
+Peſtis eram vivens, moriens ero mors tua Papa.</q> Which <hi>Melancthon,</hi> one of his dear Friends, taking as a pro<g ref="char:EOLhyphen"/>phetick rapture, turned into a Diſtick of the ſame mean<g ref="char:EOLhyphen"/>ing: Thus,
+<q>
+                  <l>Qui fuit dum vixit tua peſtis <hi>(Papa) Lutherus,</hi>
+                  </l>
+                  <l>Hic tibi cauſa, ſuo funere, mortis erit.</l>
+               </q> Both of which may be thus paraphraſtically turned into En<g ref="char:EOLhyphen"/>gliſh:
+<q>
+                  <l>As <hi>Luther</hi> Living was <hi>Romes</hi> plague, ſo ſhall</l>
+                  <l>Her Fall be caus'd by his mourn'd Funeral.</l>
+               </q>
+            </p>
+            <p>But long before this <hi>Luther</hi> was obſerv'd by all the Students at <hi>Wittemberg</hi> to be endowed with the Spirit of Prophecie which he frequently committed to poſterity, the greateſt part of which were in preſaging the Diſſolution of thoſe two grand temporal enemies of truth and Religion, the <hi>Turk</hi> and the <hi>Pope.</hi>
+            </p>
+            <p>Concerning the later of which, in <hi>Luther Colloq. p.</hi> 328. he thus propheſieth, <hi>The <hi>Pope</hi> muſt fall and Popery with him, ſince it is downright Blaſphemy to hold as he does,</hi> viz. <hi>that the final cauſe of the Inſtitution of Humane Traditions, is the true Service and worſhip of God: and that it is neceſſary to ſalvation; contrary to that of St.</hi> Paul, <hi>If either we or an Angel from Heaven preach any other Doctrine to you than what we have preached, let him be accurſed.</hi>
+            </p>
+            <p>In another Prophecie <hi>Luther</hi> thus Inferreth the <hi>Popes</hi> Downfall. <hi>Idem pag.</hi> 312. <hi>Antichriſt,</hi> ſayes he, <hi>muſt fall, and it plainly appears that the <hi>Pope</hi> is the true <hi>Antichriſt,</hi> becauſe thoſe that tranſgreſs his Decrees or violate his Statutes are far more vigorouſly and ſeverely puniſhed than thoſe who offend the Laws of God, which is a palpable exalting of himſelf above the Almighty, and therefore he is moſt properly called <hi>Antichriſt,</hi>
+               </hi> &amp;c.</p>
+            <p>Again ſays <hi>Luther,</hi> the <hi>Pope</hi> muſt and ſhall fall by reaſon the blindneſs of the Popelins is ſo great and horrible that they hold the Reconciliation of the Living (which though they pretend is a Sacrifice) yet all their Canoniſts, School-Divines and Pulpit preachers utterly diſapprove it.</p>
+            <p>And in another place he predicts the <hi>Papal</hi> overthrow thus, The <hi>Pope</hi> ſayes he, muſt fall, for that like a right Jew he boaſteth to enjoy by Chriſt a Temporal Kingdom, he alone
+<pb n="4" facs="tcp:29840:3"/>
+               <!-- PDF PAGE 43 -->will have all the Power, and Authority, he will rule and De<g ref="char:EOLunhyphen"/>termine all Councils, and incroach upon them under the Name of Chriſt. If one ſhould have deſlowred the <hi>Virgin Mary,</hi> or Crucified Chriſt, yet the <hi>Pope</hi> for money would undertake to pardon and forgive the ſame. Therefore his Dominion is but ſhort and will be brought to ruine according to the time ſignified by the number of the Beaſt, in the thirteenth of the <hi>Revelations. Page</hi> 306.</p>
+            <p>Again ſaith he, Popedom muſt fall, for that it hath been alwayes managed by wicked perſons and correſpondent to the impiety of their Doctrine: for as the Creator is in this caſe, ſuch muſt be the Creature. Pope <hi>Alexander</hi> was a <hi>Moran,</hi> that is a Baptized Jew, he believed nothing at all; he had a Concubine called <hi>Lucretia</hi> to whom he after eſpouſed his own Son. The <hi>Pope</hi> that ſucceeded him was ſo great an Enemy to him, that he cauſed all the Windows, Gates, Doors, <hi>&amp;c.</hi> whereon his Name or Armes were fixed, to be demoliſh<g ref="char:EOLhyphen"/>ed or pulled down. When <hi>God</hi> ſpeaketh the word, [<hi>Rome</hi> be de<g ref="char:EOLhyphen"/>ſtroy'd and lye in Aſhes; <hi>Pope</hi> come down from your Throne,] the word of God will be obeyed and muſt be immediately brought to paſs: <hi>L. Colloqu.</hi> 302.</p>
+            <p>Pride, again ſaith <hi>Luther,</hi> muſt undoubtedly have a Fall, and conſequently ſo muſt the <hi>Pope.</hi>
+            </p>
+            <p>Another of his remarkable prophecies to the ſame purpoſe is expreſt (in <hi>Lu.</hi> time <hi>p.</hi> 314.) to this effect. The <hi>Pope</hi> and his accomplices preſuming on their great power that they ſhall never fall, do thereby haſten their fall; and God will overthrow him, and that ſuddenly, if our own Secureneſs, and contempt of Gods word does not hinder it: Let us pray therefore that the ſame misfortunes they deſign us, may light on their own heads: they have Burned, Hanged, Drowned and Baniſhed thoſe that were amongſt us, they will in no wiſe be recalled from their Deviliſh Practiſes.</p>
+            <p>To conclude, we have great hopes theſe Prophecies of <hi>Lu<g ref="char:EOLhyphen"/>ther</hi> may accordingly come to paſs, as well as ſome others of his prediction have been accompliſhed already (though upon other occaſions) as plainly appears in his <hi>Tom.</hi> 2. <hi>Epiſt. p.</hi> 10. <hi>&amp;</hi> 207. where he foretold the Combuſtion which aroſe in
+<pb n="5" facs="tcp:29840:4"/>
+               <!-- PDF PAGE 44 -->
+               <hi>Germany:</hi> as likewiſe the Death of <hi>Frederick</hi> Elector of <hi>Saxo<g ref="char:EOLhyphen"/>ny, Tom.</hi> 2. <hi>Epiſt. p.</hi> 10. he alſo in the ſame Book propheſied the Dearth or Famine which happened in <hi>Germany</hi> according to his prediction. And now I ſhall detain you no longer about this Excellent perſon, but only preſent you with a ſmall Manuſcript written by his own hand, and not unproperly called,</p>
+            <div type="part">
+               <head>The Generation of Theological Corruption; or a Pedigree of Popiſh Principles.</head>
+               <byline>By Dr. <hi>M. Luther.</hi>
+               </byline>
+               <p>THE Devil begat Darkneſs, Darkneſs begat Ignorance, Igno<g ref="char:EOLhyphen"/>rance begat Errour and his Brethren; Errour begat Free<g ref="char:EOLhyphen"/>will and Preſumption, out of Self conceit; Free will begat Merit, Merit begat Forgetfulneſs of God, Forgetfulneſs of God begat Tranſgreſſion, Tranſgreſſion begat Superſtition, Superſtition begat Satisfaction, Satisfaction begat Oblation of the Maſs, the Oblati<g ref="char:EOLhyphen"/>on of the Maſs begat <g ref="char:V">Ʋ</g>nction, <g ref="char:V">Ʋ</g>nction begat the Prieſt, the Prieſt begat Miſchief, Miſchief begat Misbelief, Misbelief begat Hypo<g ref="char:EOLhyphen"/>criſie, Hypocriſie begat Trading with Offerings for gain, Trading begat Purgatory, Purgatory begat yearly ſolemn Vigils, yearly Vigils begat Church-Livings, Church Livings begat Mammon, Mammon begat Superfluity, Superfluity begat Exceſs, Exceſs begat Rage, Rage begat Licentiouſneſs, Licentiouſneſs begat Dominion, Dominion begat Pomp, Pomp begat Ambition, Ambition begat Si<g ref="char:EOLhyphen"/>mony, Simony begat the Pope and his Brethren; the Pope begat the Myſterie of Iniquity, the Myſterie of Iniquity begat Sophiſtical Divinity, Sophiſtical Divinity begat rejecting of the Holy Scri<g ref="char:EOLhyphen"/>ptures, the rejecting of the Holy Scriptures begat Tyranny, Tyranny begat Murdering of Saints, Murdering of Saints begat Abomina<g ref="char:EOLhyphen"/>tion, Abomination begat Deſolation, Deſolation begat Anguiſh, Anguiſh begat Queſtioning, Queſtioning begat the ſearching out the Grounds of Truth; out of which the Pope, called Antichriſt, is Revealed. Ex <hi>Luthers Prophecies pag. 12.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="biography">
+            <pb n="6" facs="tcp:29840:4"/>
+            <!-- PDF PAGE 44 -->
+            <p>I Shall now according to my Title, give you a brief account of <hi>Mich. Noſtredamus,</hi> and then preſent you with ſome of his Prophecies which particularly concern <hi>England</hi> and <hi>France.</hi>
+            </p>
+            <p>He was Born in St. <hi>Remy</hi> a Town in <hi>Provence</hi> on the four<g ref="char:EOLhyphen"/>teenth of <hi>Decemb.</hi> 1503. he was bred up in all the Learning in <hi>France,</hi> and having betaken himſelf to the Study of Phy<g ref="char:EOLhyphen"/>ſick, grew ſo excellent therein, that at laſt he became Phyſi<g ref="char:EOLhyphen"/>tian to three ſucceſſive Kings of that Countrey. I ſhall give my ſelf the leſs trouble to demonſtrate to the Reader that this learned perſon was endowed with the Spirit of Prophe<g ref="char:EOLhyphen"/>cie, becauſe I could inſtance above a thouſand Prophecies of his which have already come to paſs: but before I give you one or two which concerned our Nation as an Inſtance; I ſhall give you the Judgement of one of the greateſt wits in our laſt age who in brief ſayes thus,</p>
+            <p>God Almighty has choſen out <hi>Mich. Noſtredamus</hi> to impart to the world many prodigious and extraordinary things which ſhall happen for the Future: again ſayes he, next the <hi>Apoſtles,</hi> and Canonical <hi>Prophets, Noſtredamus</hi> is to be preferred before any other in theſe four things; <hi>viz.</hi> in the Certainty, the In<g ref="char:EOLhyphen"/>fallibility, in the Generality and Quantity of his predicti<g ref="char:EOLhyphen"/>ons, of which here's an example, written as he did all his other, in old Law French, of which I ſhall only give the be<g ref="char:EOLhyphen"/>ginning, and then ſet you down the Engliſh of them.</p>
+            <q>Trente de Londres ſecret—</q>
+            <p>Engliſhed thus,</p>
+            <q>
+               <l>Thirty of <hi>London</hi> ſhall conſpire againſt their King;</l>
+               <l>The Plot ſhall be made on <hi>London</hi>-Bridge.</l>
+            </q>
+            <p>What could appear more perfect in number, place and ſub<g ref="char:EOLhyphen"/>ſtance, to any one that can remember the Plotters againſt King <hi>Charles</hi> the Firſt of bleſſed Memory, whoſe Conſpiracy was contrived at the <hi>Bear</hi> on the Bridge foot: this he foretold al<g ref="char:EOLhyphen"/>moſt a hundred years before it came to paſs: he alſo prophe<g ref="char:EOLhyphen"/>ſied that a King of <hi>England</hi> ſhould appear on a Scaffold without his Doublet; that he ſhould be taken off; and that in
+<pb n="7" facs="tcp:29840:5"/>
+               <!-- PDF PAGE 45 -->the place where he was to be beheaded, another had been killed three dayes before; all which Circumſtances were ſad<g ref="char:EOLhyphen"/>ly made true by the Lamented Cataſtrophe of that moſt pi<g ref="char:EOLhyphen"/>ous Monarch and Martyr.</p>
+            <p>I ſhall now proceed to thoſe Prophecies which as yet are unaccompliſhed, <hi>Pag.</hi> 231. 5.—<q>
+                  <hi>A quarante huit dei<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>,</hi>
+               </q> &amp;c. <q>
+                  <hi>At the Clymacterical year of</hi> 8. <hi>&amp;</hi> 40. <hi>at the end of <hi>Cancer,</hi> ſhall be ſuch a Drought that the F<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſh in the Water ſhall be boyled to a Conſumption; <hi>Bearn</hi> and <hi>Bigorre,</hi> by heavenly Fire ſhall be in diſtreſs.</hi>
+               </q>
+            </p>
+            <p>I ſhall ſay no more but that <hi>Bearn</hi> and <hi>Bigorre,</hi> are two Provinces in <hi>France;</hi> of the reſt let the Reader judge.</p>
+            <p>Another,<lb/>
+               <q>
+                  <hi>Paix uberté long temps on ne louera,</hi>
+               </q> &amp;c.</p>
+            <p>Thus Engliſhed.<lb/>
+               <q>Peace and plenty ſhall not long be praiſed; before the end of his Reign the<hi>Flower de Luce</hi> ſhall be Deſerted; bodyes ſhall dye by water, Earth ſhall be brought, but therein they ſhall not be buried.</q>
+            </p>
+            <p>By <hi>Flower de Luce</hi> is meant <hi>France,</hi> expound the reſt your ſelves. <hi>Proph.</hi> 82. <hi>pag.</hi> 141. <hi>de Noſtredamus.</hi>
+            </p>
+            <p>But afterwards he ends his tenth Century, <hi>pag.</hi> 444. with this Prophecie concerning the future Welfare of <hi>England.</hi>
+            </p>
+            <q>
+               <l>Le grand Empire ſera per L'Angleterre, <hi>&amp;c.</hi>
+               </l>
+            </q>
+            <q>
+               <l>England at laſt the Worlds Empire ſhall be</l>
+               <l>And ſo ſhall remain for Three Hundred and three,</l>
+               <l>Great Armies ſhall paſs both through Land and through Sea</l>
+               <l>To which the proud <hi>Spaniard</hi> ſhall Strike and give way.</l>
+            </q>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:29840:5"/>
+            <!-- PDF PAGE 45 -->
+         </div>
+      </body>
+   </text>
+</TEI>
